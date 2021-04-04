@@ -20,14 +20,15 @@ This project was built for Android platform.
 
 ## Prerequisites
 *	An android device with a built-in camera, an operating system of 4.1.x+ .
-*	The application’s country and game cards (markers).
+*	The application’s globe and game cards (markers).
 
 ## Installation / How to Use
 1. Download the .apk file name "GuidetoSports.apk"
 2. Run the app
-3. On the home menu, press __Explore Sports__ , to discover sports by scanning the flag markers
+3. On the home screen, press __Explore Sports__ , to discover sports by scanning the flag markers
     * When the camera opens, position it above the marker and allow it to be identified until it responds with a 3D model
-4. To play a game, on the home menu, press __Play__ , to play a game by scanning a card game marker
+    * Press -in the globe- the virtual button to show you animated video about the most popular sport in that country
+4. To play a game, on the home screen, press __Play__ , to play a game by scanning a card game marker
     * When the camera opens, position it above the marker and allow it to be identified until it responds with a 3D game
     * play the game normally as you would play a multiple choice game
 
