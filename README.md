@@ -1,4 +1,4 @@
-# A Child's Worldwide Guide To Sports
+# A Child's Worldwide Guide to Sports
 <p align="center"> <img width="450" alt="Screen Shot 1442-08-22 at 3 06 00 AM" src="https://user-images.githubusercontent.com/81882196/113494642-cef39b00-94f2-11eb-96e8-cd0d1d58935a.png">
 </p>
 An augmented reality application for children of ages 5-11, that provides them with knowledge about  the different types of sports on a worldwide scale. It also tests their knowledge of the learned material from the application, through a quiz game provided within the application.
@@ -12,7 +12,7 @@ This project was built for Android platform.
 
 ## Table of contents
 
-> * [A Child's World Wide Guide to Sports](#A-Child's-Worldwide-Guide-to-Sports)
+> * [A Child's Worldwide Guide to Sports](#A-Child's-Worldwide-Guide-to-Sports)
 >   * [Table of contents](#table-of-contents)
 >   * [Prerequisites](#Prerequisites)
 >   * [Installing and How to Use](#Installation--How-to-Use)
