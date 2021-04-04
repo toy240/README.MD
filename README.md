@@ -10,11 +10,19 @@ The purpose of this application is to provide a fun application using the AR tec
 
 This project was built for Android platform.
 
+## Table of contents
+
+> * [A Child's World Wide Guide to Sports](#A-Child's-World-Wide-Guide-to-Sports)
+>   * [Table of contents](#table-of-contents)
+>   * [Prerequisites](#Prerequisites)
+>   * [Installing and How to Use](#Installation--How-to-Use)
+>   * [Built With](#Built-With)
+
 ### Prerequisites
 *	An android device with a built-in camera, an operating system of 4.1.x+ .
 *	The application’s country and game cards (markers).
 
-### Installing and How to Use
+### Installation / How to Use
 1. Download the .apk file name "GuidetoSports.apk"
 2. Run the app
 3. On the home menu, press __Explore Sports__ , to discover sports by scanning the flag markers
