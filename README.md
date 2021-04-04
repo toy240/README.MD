@@ -29,7 +29,7 @@ This project was built for Android platform.
     * When the camera opens, position it above the marker and allow it to be identified until it responds with a 3D model
 4. To play a game, on the home menu, press __Play__ , to play a game by scanning a card game marker
     * When the camera opens, position it above the marker and allow it to be identified until it responds with a 3D game
-    * play the game normally as you would play a multiple choice game.
+    * play the game normally as you would play a multiple choice game
 
 ## Built With
 * [Unity engine](https://unity3d.com/get-unity/download) - Primary tool of development
