@@ -10,11 +10,11 @@ The purpose of this application is to provide a fun application using the AR tec
 
 This project was built for Android platform.
 
-### H3 Prerequisites
+### Prerequisites
 *	An android device with a built-in camera, an operating system of 4.1.x+ .
 *	The application’s country and game cards (markers).
 
-### H3 Installing and How to Use
+### Installing and How to Use
 1. Download the .apk file name "GuidetoSports.apk"
 2. Run the app
 3. On the home menu, press __Explore Sports__ , to discover sports by scanning the flag markers
@@ -23,7 +23,7 @@ This project was built for Android platform.
 ..* When the camera opens, position it above the marker and allow it to be identified until it responds with a 3D game
 ..* play the game normally as you would play a multiple choice game.
 
-### H3 Built With
+### Built With
 * [Unity engine](https://unity3d.com/get-unity/download) - Primary tool of development
 * [Vuforia SDK](https://developer.vuforia.com/downloads/sdk) - To enable Augmented Reality Software
 * [Andriod build support](https://docs.unity3d.com/Manual/android-sdksetup.html) - For installation and running
