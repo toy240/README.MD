@@ -12,17 +12,17 @@ This project was built for Android platform.
 
 ## Table of contents
 
-> * [A Child's World Wide Guide to Sports](#A-Child's-World-Wide-Guide-to-Sports)
+> * [A Child's World Wide Guide to Sports](#A-Child's-Worldwide-Guide-to-Sports)
 >   * [Table of contents](#table-of-contents)
->     * [Prerequisites](#Prerequisites)
->     * [Installing and How to Use](#Installation--How-to-Use)
->     * [Built With](#Built-With)
+>   * [Prerequisites](#Prerequisites)
+>   * [Installing and How to Use](#Installation--How-to-Use)
+>   * [Built With](#Built-With)
 
-### Prerequisites
+## Prerequisites
 *	An android device with a built-in camera, an operating system of 4.1.x+ .
 *	The application’s country and game cards (markers).
 
-### Installation / How to Use
+## Installation / How to Use
 1. Download the .apk file name "GuidetoSports.apk"
 2. Run the app
 3. On the home menu, press __Explore Sports__ , to discover sports by scanning the flag markers
@@ -31,7 +31,7 @@ This project was built for Android platform.
 ..* When the camera opens, position it above the marker and allow it to be identified until it responds with a 3D game
 ..* play the game normally as you would play a multiple choice game.
 
-### Built With
+## Built With
 * [Unity engine](https://unity3d.com/get-unity/download) - Primary tool of development
 * [Vuforia SDK](https://developer.vuforia.com/downloads/sdk) - To enable Augmented Reality Software
 * [Andriod build support](https://docs.unity3d.com/Manual/android-sdksetup.html) - For installation and running
